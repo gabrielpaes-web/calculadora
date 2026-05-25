@@ -1,4 +1,3 @@
-def saudacao(nome):
-	return f'bom dia,{nome}'
-
-print(saudacao('mundo'))
+def soma(n1 + n2):
+	resultado = n1 +n2
+	return(resultado)
