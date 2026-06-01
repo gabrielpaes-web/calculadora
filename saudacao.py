@@ -1,3 +1,3 @@
-def soma(n1 + n2):
-	resultado = n1 +n2
-	return(resultado)
+def saudacao(nome):
+return f"Olá, {nome}!"
+print(saudacao("Mundo"))
